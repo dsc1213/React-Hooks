@@ -1,0 +1,11 @@
+{
+  "name": "React-Hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dsc1213/React-Hooks.git",
+  "author": "Sree Damodara <sree-charan.damodara@hpe.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
